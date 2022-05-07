@@ -29,6 +29,7 @@ export default {
         result += characters.charAt(Math.floor(Math.random() * charactersLength));
       }
       this.name = result + ".exe";
+      console.log(this.name);
     }
   }
 }
