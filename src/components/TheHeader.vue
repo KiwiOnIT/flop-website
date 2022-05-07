@@ -2,7 +2,9 @@
 <div class="navbar navbar-dark navbar-expand-lg bg-dark">
     <div class="container-fluid">
         <div>
-            <img src="@/assets/logo.png" alt="" width="32" height="32">
+            <a href="/">
+                <img src="@/assets/logo.png" alt="" width="32" height="32">
+            </a>
         </div>
         <div class="collapse navbar-collapse justify-content-end">
             <div class="navbar-nav">
